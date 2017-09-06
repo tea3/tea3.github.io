@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TPB</title>
+  <subtitle>TPB</subtitle>
+  <link href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+  <link href="https://tea3.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://tea3.github.io/" rel="alternate" type="text/html"/>
+  <updated>2017-09-05T07:05:00.000Z</updated>
+  <id>https://tea3.github.io/</id>
+  
+  <author>
+    <name>tea</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>サイトURLの変更のお知らせ</title>
+    <link href="https://tea3.github.io/p/17/transfered-url/"/>
+    <id>https://tea3.github.io/p/17/transfered-url/</id>
+    <published>2017-09-04T14:13:33.000Z</published>
+    <updated>2017-09-05T07:05:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        この度サイトのURLを変更することになりました。サイトの内容は従来と同じとなります。また、Feedlyやinoreaderでフィード購読されていらっしゃる方は大変ご手数ではありますが新しいフィードURL(https://photo-tea.com/atom.xml)へ再登録をお願いいたします。
+      
+      </p><p><a href="https://tea3.github.io/p/17/transfered-url/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      この度サイトのURLを変更することになりました。サイトの内容は従来と同じとなります。また、Feedlyやinoreaderでフィード購読されていらっしゃる方は大変ご手数ではありますが新しいフィードURL(https://photo-tea.com/atom.xml)へ再登録をお願いいたします。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="イベント" scheme="https://tea3.github.io/tags/event/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>野間灯台の砂浜で夕日と花火＆スイカ割り＆ラムネを楽しんできました</title>
+    <link href="https://tea3.github.io/p/17/nomatoudai-tyushajo-beech/"/>
+    <id>https://tea3.github.io/p/17/nomatoudai-tyushajo-beech/</id>
+    <published>2017-08-30T14:22:55.000Z</published>
+    <updated>2017-08-31T03:14:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        愛知県知多半島の美浜町の野間埼灯台へ遊びに行ってきました。駐車場は灯台の近くと食と健康の館という場所の駐車場(有料)が利用できます。駐車場の向かい側には小野浦海水浴場があります。また近くにノアノアというおしゃれなカフェがありました。今回は写真仲間のお誘いで夕日・線香花火・スイカ割り・ラムネを満喫することができました。
+      
+      </p><p><a href="https://tea3.github.io/p/17/nomatoudai-tyushajo-beech/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      愛知県知多半島の美浜町の野間埼灯台へ遊びに行ってきました。駐車場は灯台の近くと食と健康の館という場所の駐車場(有料)が利用できます。駐車場の向かい側には小野浦海水浴場があります。また近くにノアノアというおしゃれなカフェがありました。今回は写真仲間のお誘いで夕日・線香花火・スイカ割り・ラムネを満喫することができました。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="FE55mmF1.8" scheme="https://tea3.github.io/tags/sony-fe-55mm-f18-za-sel55f18z/"/>
+    
+      <category term="Holga(HL-N)" scheme="https://tea3.github.io/tags/Holga-HL-N/"/>
+    
+      <category term="Laowa105mmF2-STF-Bokeh-Dreamer" scheme="https://tea3.github.io/tags/laowa-105mm-stf-bokeh-dreamer/"/>
+    
+      <category term="Lightroomのプリセット（フィルム）" scheme="https://tea3.github.io/tags/film-lightroom-presets/"/>
+    
+      <category term="Loxia2.8/21" scheme="https://tea3.github.io/tags/carl-zeiss-loxia-21mm-f28/"/>
+    
+      <category term="NissinAir1とDi700A（ストロボ）" scheme="https://tea3.github.io/tags/nissin-flash-air1-and-di700a/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="オールドレンズ" scheme="https://tea3.github.io/tags/old-lens/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="ハイキー" scheme="https://tea3.github.io/tags/highkey-photography/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="逆光" scheme="https://tea3.github.io/tags/backlit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>透明感ある写真を撮る方法＆レタッチで仕上げるポイントとは何か？Lightroom勉強会が開催されます。</title>
+    <link href="https://tea3.github.io/p/17/toumeikan-dashikata/"/>
+    <id>https://tea3.github.io/p/17/toumeikan-dashikata/</id>
+    <published>2017-08-10T20:57:31.000Z</published>
+    <updated>2017-08-14T03:00:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        写真で透明感を出す方法について簡単にまとめてみたいと思います。また週末にLightroom勉強会の第2回目が開催されます。ライトルームの使い方やレタッチの考え方を参加者で意見交換したり基礎を学ぶ交流会です。LINEグループ上で動画チャットを活用して実際にLightroomを触っているところをリアルタイムで画面共有します。
+      
+      </p><p><a href="https://tea3.github.io/p/17/toumeikan-dashikata/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      写真で透明感を出す方法について簡単にまとめてみたいと思います。また週末にLightroom勉強会の第2回目が開催されます。ライトルームの使い方やレタッチの考え方を参加者で意見交換したり基礎を学ぶ交流会です。LINEグループ上で動画チャットを活用して実際にLightroomを触っているところをリアルタイムで画面共有します。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="FE90mmF2.8Macro" scheme="https://tea3.github.io/tags/sony-fe-90mm-F28-macro-g-oss-sel90m28g/"/>
+    
+      <category term="NissinAir1とDi700A（ストロボ）" scheme="https://tea3.github.io/tags/nissin-flash-air1-and-di700a/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="イベント" scheme="https://tea3.github.io/tags/event/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="ハイキー" scheme="https://tea3.github.io/tags/highkey-photography/"/>
+    
+      <category term="マクロ" scheme="https://tea3.github.io/tags/macro/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="植物" scheme="https://tea3.github.io/tags/plant/"/>
+    
+      <category term="照明機材" scheme="https://tea3.github.io/tags/camera-lighting-goods/"/>
+    
+      <category term="花（植物）" scheme="https://tea3.github.io/tags/flower/"/>
+    
+      <category term="逆光" scheme="https://tea3.github.io/tags/backlit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SONYカメラ「αユーザーのオフ会」を愛知県名古屋市で開催します</title>
+    <link href="https://tea3.github.io/p/17/sony-nagoya-meeting-1015/"/>
+    <id>https://tea3.github.io/p/17/sony-nagoya-meeting-1015/</id>
+    <published>2017-08-05T15:28:14.000Z</published>
+    <updated>2017-08-10T06:11:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        愛知県の名古屋市でSONY αユーザーのオフ会「#SONYオフ会名古屋1015」を開催することになりました。カメラユーザー同士で自由に交流できる場となっていますので、写真仲間を増やしたい方や交流を楽しみたい方はこの機会に是非ご参加ください。イベントは撮影会と飲み会の2部構成となっています。
+      
+      </p><p><a href="https://tea3.github.io/p/17/sony-nagoya-meeting-1015/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      愛知県の名古屋市でSONY αユーザーのオフ会「#SONYオフ会名古屋1015」を開催することになりました。カメラユーザー同士で自由に交流できる場となっていますので、写真仲間を増やしたい方や交流を楽しみたい方はこの機会に是非ご参加ください。イベントは撮影会と飲み会の2部構成となっています。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="イベント" scheme="https://tea3.github.io/tags/event/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>形原温泉あじさいの里でポートレートを撮ってきました</title>
+    <link href="https://tea3.github.io/p/17/gamagori-kataraha-ajisai-portrait17/"/>
+    <id>https://tea3.github.io/p/17/gamagori-kataraha-ajisai-portrait17/</id>
+    <published>2017-07-19T14:40:26.000Z</published>
+    <updated>2017-07-20T09:04:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        愛知県蒲郡市の形原温泉で毎年開催されるあじさい祭りでポートレートを撮らせていただきました。形原温泉の紫陽花は県外からも観光客が訪れる有数の名所です。私自信も年に1回は必ず訪れる場所です。一面に咲く紫陽花は見事なので機会がございましたら遊びにお出かけください。
+      
+      </p><p><a href="https://tea3.github.io/p/17/gamagori-kataraha-ajisai-portrait17/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      愛知県蒲郡市の形原温泉で毎年開催されるあじさい祭りでポートレートを撮らせていただきました。形原温泉の紫陽花は県外からも観光客が訪れる有数の名所です。私自信も年に1回は必ず訪れる場所です。一面に咲く紫陽花は見事なので機会がございましたら遊びにお出かけください。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="FE55mmF1.8" scheme="https://tea3.github.io/tags/sony-fe-55mm-f18-za-sel55f18z/"/>
+    
+      <category term="Laowa105mmF2-STF-Bokeh-Dreamer" scheme="https://tea3.github.io/tags/laowa-105mm-stf-bokeh-dreamer/"/>
+    
+      <category term="Lightroomのプリセット（フィルム）" scheme="https://tea3.github.io/tags/film-lightroom-presets/"/>
+    
+      <category term="Sigma35mmF1.4" scheme="https://tea3.github.io/tags/sigma-35mm-F14-dg-hsm-art/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="ハイキー" scheme="https://tea3.github.io/tags/highkey-photography/"/>
+    
+      <category term="フィルム風現像" scheme="https://tea3.github.io/tags/film-lightroom-preset/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="植物" scheme="https://tea3.github.io/tags/plant/"/>
+    
+      <category term="花（植物）" scheme="https://tea3.github.io/tags/flower/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Creative Cloudのオンラインコードを登録する方法を解説。Amazonで買ったフォトプランを利用するには？</title>
+    <link href="https://tea3.github.io/p/17/prime-day-photograpy-plan/"/>
+    <id>https://tea3.github.io/p/17/prime-day-photograpy-plan/</id>
+    <published>2017-07-10T17:19:01.000Z</published>
+    <updated>2017-07-11T03:14:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        AmazonのPrime dayというセールで買ったAdobe Creative Cloud(CC)フォトプランのオンラインコード登録方法について備忘録を残したいと思います。写真をレタッチする機会があればアマゾンのプライム会員になっておくべきだなぁと痛感している今日このごろでした。
+      
+      </p><p><a href="https://tea3.github.io/p/17/prime-day-photograpy-plan/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      AmazonのPrime dayというセールで買ったAdobe Creative Cloud(CC)フォトプランのオンラインコード登録方法について備忘録を残したいと思います。写真をレタッチする機会があればアマゾンのプライム会員になっておくべきだなぁと痛感している今日このごろでした。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>愛知県大府市の星名池が一部立ち入り禁止に。今年の蓮は見られない？</title>
+    <link href="https://tea3.github.io/p/17/hoshina-ike-hasu-17/"/>
+    <id>https://tea3.github.io/p/17/hoshina-ike-hasu-17/</id>
+    <published>2017-07-02T14:46:13.000Z</published>
+    <updated>2017-07-05T00:36:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        蓮の撮影スポットとして有名な愛知県大府市の星名池ですが、2017年から橋に立ち入りできなくなりました。アジサイが枯れる頃に蕾を付け始めるのが蓮の花です。池に架かっている木製の橋の上から、すぐ間近で咲いている蓮の花やカワセミを楽しむこともできます。愛知県では豊田市の竹村や、岡崎市の伊賀神社も蓮の名所として人気です。
+      
+      </p><p><a href="https://tea3.github.io/p/17/hoshina-ike-hasu-17/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      蓮の撮影スポットとして有名な愛知県大府市の星名池ですが、2017年から橋に立ち入りできなくなりました。アジサイが枯れる頃に蕾を付け始めるのが蓮の花です。池に架かっている木製の橋の上から、すぐ間近で咲いている蓮の花やカワセミを楽しむこともできます。愛知県では豊田市の竹村や、岡崎市の伊賀神社も蓮の名所として人気です。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="D600" scheme="https://tea3.github.io/tags/nikon-d600-photo/"/>
+    
+      <category term="Lightroomのプリセット（クール）" scheme="https://tea3.github.io/tags/cool-lightroom-presets/"/>
+    
+      <category term="Nikon105mmF2.8Macro" scheme="https://tea3.github.io/tags/af-s-vr-micro-nikkor-105mm-f28g-if-ed/"/>
+    
+      <category term="Tamron15-30mmF2.8" scheme="https://tea3.github.io/tags/tamron-sp-15-30mm-F28-di-vc-usd-A012/"/>
+    
+      <category term="YongnuoRF603とYN560（ストロボ）" scheme="https://tea3.github.io/tags/yongnuo-flash-rf603-and-yn560/"/>
+    
+      <category term="α7" scheme="https://tea3.github.io/tags/sony-ilce7-photo/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="マクロ" scheme="https://tea3.github.io/tags/macro/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="植物" scheme="https://tea3.github.io/tags/plant/"/>
+    
+      <category term="照明機材" scheme="https://tea3.github.io/tags/camera-lighting-goods/"/>
+    
+      <category term="花（植物）" scheme="https://tea3.github.io/tags/flower/"/>
+    
+      <category term="風景" scheme="https://tea3.github.io/tags/landscape/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>妻籠宿で和風ポートレートを撮ってきました。(α7RIIとSIGMA35mmF1.4)</title>
+    <link href="https://tea3.github.io/p/17/tsumago-post-town-portrait/"/>
+    <id>https://tea3.github.io/p/17/tsumago-post-town-portrait/</id>
+    <published>2017-06-19T14:58:57.000Z</published>
+    <updated>2017-06-20T08:59:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        長野県中津川市の妻籠宿でポートレートを撮影してきました。時代劇に出てきそうな趣きのある風景が広がっている素敵な場所です。SIGMA 35mm F1.4 DG HSMは純正のSony Distagon T* FE 35mm F1.4 ZA (SEL35F14Z)に比べるとボケが固い印象ですが、比較するとその他で有利なのが特徴です。
+      
+      </p><p><a href="https://tea3.github.io/p/17/tsumago-post-town-portrait/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      長野県中津川市の妻籠宿でポートレートを撮影してきました。時代劇に出てきそうな趣きのある風景が広がっている素敵な場所です。SIGMA 35mm F1.4 DG HSMは純正のSony Distagon T* FE 35mm F1.4 ZA (SEL35F14Z)に比べるとボケが固い印象ですが、比較するとその他で有利なのが特徴です。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="Lightroomのプリセット（ビビッド）" scheme="https://tea3.github.io/tags/vivid-lightroom-presets/"/>
+    
+      <category term="NissinAir1とDi700A（ストロボ）" scheme="https://tea3.github.io/tags/nissin-flash-air1-and-di700a/"/>
+    
+      <category term="Sigma35mmF1.4" scheme="https://tea3.github.io/tags/sigma-35mm-F14-dg-hsm-art/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="照明機材" scheme="https://tea3.github.io/tags/camera-lighting-goods/"/>
+    
+      <category term="長野県の写真スポット" scheme="https://tea3.github.io/tags/nagano-prefecture-photo-locations/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>長野県の綺麗な川でポートレート(人物)撮影してきました。川は青かった…</title>
+    <link href="https://tea3.github.io/p/17/emerald-river-portrait/"/>
+    <id>https://tea3.github.io/p/17/emerald-river-portrait/</id>
+    <published>2017-06-12T14:37:57.000Z</published>
+    <updated>2017-06-20T08:23:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        長野県の綺麗な川でポートレート(人物)を撮影してきました。撮影地はエメラルドグリーンの清流が有名な阿寺渓谷。キャンプスポットで何度か訪れているお気に入りスポットです。長野県の中津川から付知峡一帯では綺麗な川が多く点在しています。都会では見られない綺麗な水、そして真っ青な色をしているので毎度びっくりしてしまいます。
+      
+      </p><p><a href="https://tea3.github.io/p/17/emerald-river-portrait/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      長野県の綺麗な川でポートレート(人物)を撮影してきました。撮影地はエメラルドグリーンの清流が有名な阿寺渓谷。キャンプスポットで何度か訪れているお気に入りスポットです。長野県の中津川から付知峡一帯では綺麗な川が多く点在しています。都会では見られない綺麗な水、そして真っ青な色をしているので毎度びっくりしてしまいます。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="Lightroomのプリセット（ビビッド）" scheme="https://tea3.github.io/tags/vivid-lightroom-presets/"/>
+    
+      <category term="Loxia2.8/21" scheme="https://tea3.github.io/tags/carl-zeiss-loxia-21mm-f28/"/>
+    
+      <category term="NissinAir1とDi700A（ストロボ）" scheme="https://tea3.github.io/tags/nissin-flash-air1-and-di700a/"/>
+    
+      <category term="Sigma35mmF1.4" scheme="https://tea3.github.io/tags/sigma-35mm-F14-dg-hsm-art/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="照明機材" scheme="https://tea3.github.io/tags/camera-lighting-goods/"/>
+    
+      <category term="長野県の写真スポット" scheme="https://tea3.github.io/tags/nagano-prefecture-photo-locations/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lightroomのレタッチ勉強会を動画チャットZoomで開催してみた感想</title>
+    <link href="https://tea3.github.io/p/17/lightroom-study-group1/"/>
+    <id>https://tea3.github.io/p/17/lightroom-study-group1/</id>
+    <published>2017-06-04T13:10:58.000Z</published>
+    <updated>2017-08-16T01:19:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        週末にLightroomのRAW現像レタッチ勉強会をリモートで開催してみました。レタッチの様子は動画チャットサービスのZoomを使って画面共有してみたんですが、かなり快適で楽しかったです。今回はZoomを選んだ決め手やレタッチ勉強会の感想を簡単にまとめてみたいと思います。
+      
+      </p><p><a href="https://tea3.github.io/p/17/lightroom-study-group1/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      週末にLightroomのRAW現像レタッチ勉強会をリモートで開催してみました。レタッチの様子は動画チャットサービスのZoomを使って画面共有してみたんですが、かなり快適で楽しかったです。今回はZoomを選んだ決め手やレタッチ勉強会の感想を簡単にまとめてみたいと思います。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="イベント" scheme="https://tea3.github.io/tags/event/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>河津桜のポートレートと写真展示のお知らせ(Loawa 105mm F2 Bokeh Dreamerとサンヨン)</title>
+    <link href="https://tea3.github.io/p/17/mild-day-in-spring/"/>
+    <id>https://tea3.github.io/p/17/mild-day-in-spring/</id>
+    <published>2017-05-28T12:35:59.000Z</published>
+    <updated>2017-05-29T07:14:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        春に岡崎市の葵桜でポートレートを撮らせていただきました。モデルは、ばにらさんです。春うららって感じの素敵な写真を撮らせて頂き感謝です。2017年12月の1日(金)〜3日(土)に名古屋市金山のGallery 40でばにら展が開催されます。自分も何点か展示させて頂くことになりましたので、もし宜しければ遊びにお越しください。
+      
+      </p><p><a href="https://tea3.github.io/p/17/mild-day-in-spring/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      春に岡崎市の葵桜でポートレートを撮らせていただきました。モデルは、ばにらさんです。春うららって感じの素敵な写真を撮らせて頂き感謝です。2017年12月の1日(金)〜3日(土)に名古屋市金山のGallery 40でばにら展が開催されます。自分も何点か展示させて頂くことになりましたので、もし宜しければ遊びにお越しください。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="Laowa105mmF2-STF-Bokeh-Dreamer" scheme="https://tea3.github.io/tags/laowa-105mm-stf-bokeh-dreamer/"/>
+    
+      <category term="Nikon300mmF4PFVR" scheme="https://tea3.github.io/tags/af-s-nikkor-300mm-f4e-pf-ed-vr/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="花（植物）" scheme="https://tea3.github.io/tags/flower/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安城のデンパークでポートレートとチューリップを撮りました</title>
+    <link href="https://tea3.github.io/p/17/denpark-portrait-1705/"/>
+    <id>https://tea3.github.io/p/17/denpark-portrait-1705/</id>
+    <published>2017-05-17T14:12:28.000Z</published>
+    <updated>2017-05-19T05:57:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        デンパークでポートレートを撮らせていただきました。最近は友人の間でもポートレートを撮る方が増えてきて、撮影現場に出会うケースがよくあります。実は撮影では前ボケに苦手意識があります。こういった時には同じレンズの作例を見ることが多いですのですが、よろしければFlickrのLaowa 105mm F2の作例をご覧ください。
+      
+      </p><p><a href="https://tea3.github.io/p/17/denpark-portrait-1705/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      デンパークでポートレートを撮らせていただきました。最近は友人の間でもポートレートを撮る方が増えてきて、撮影現場に出会うケースがよくあります。実は撮影では前ボケに苦手意識があります。こういった時には同じレンズの作例を見ることが多いですのですが、よろしければFlickrのLaowa 105mm F2の作例をご覧ください。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="Laowa105mmF2-STF-Bokeh-Dreamer" scheme="https://tea3.github.io/tags/laowa-105mm-stf-bokeh-dreamer/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="花（植物）" scheme="https://tea3.github.io/tags/flower/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>白糸の滝の撮影とNDフィルターについて思うこと</title>
+    <link href="https://tea3.github.io/p/17/shiraito-waterfalls-17/"/>
+    <id>https://tea3.github.io/p/17/shiraito-waterfalls-17/</id>
+    <published>2017-05-07T14:27:50.000Z</published>
+    <updated>2017-05-10T01:28:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        GWはいかがお過ごしだったでしょうか。こちらは友人のお誘いで静岡県の白糸の滝や富士山を見てきました。滝の撮影で持っていきたいグッズといえば、まず思い浮かぶのがNDフィルターですが、日中の太陽光が差し込む滝では手持ちのND8よりも更に暗いNDフィルターが必要だなと改めて思った1日でした。
+      
+      </p><p><a href="https://tea3.github.io/p/17/shiraito-waterfalls-17/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      GWはいかがお過ごしだったでしょうか。こちらは友人のお誘いで静岡県の白糸の滝や富士山を見てきました。滝の撮影で持っていきたいグッズといえば、まず思い浮かぶのがNDフィルターですが、日中の太陽光が差し込む滝では手持ちのND8よりも更に暗いNDフィルターが必要だなと改めて思った1日でした。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="FE70-200mmF4G" scheme="https://tea3.github.io/tags/sony-fe-70-200mm-f4-g-oss-sel70200g/"/>
+    
+      <category term="Lightroomのプリセット（クール）" scheme="https://tea3.github.io/tags/cool-lightroom-presets/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="静岡県の写真スポット" scheme="https://tea3.github.io/tags/shizuoka-prefecture-photo-locations/"/>
+    
+      <category term="風景" scheme="https://tea3.github.io/tags/landscape/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>菜の花でポートレートを撮らせてもらった＠菜の花ガーデン</title>
+    <link href="https://tea3.github.io/p/17/story-of-rapeseed-field2/"/>
+    <id>https://tea3.github.io/p/17/story-of-rapeseed-field2/</id>
+    <published>2017-04-10T15:05:35.000Z</published>
+    <updated>2017-05-10T01:28:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        道行く観光客にお願いして菜の花ポートレート写真を撮らせていただきました。場所は愛知県田原市の菜の花ガーデンです。今回は思い切って観光客にお声がけして写真撮影をさせていただいた訳ですが、自分がこれまで撮っていなかった雰囲気や価値観に触れる機会を得ることができました。機会があればたまにはこういった撮影に挑戦してみたいです。
+      
+      </p><p><a href="https://tea3.github.io/p/17/story-of-rapeseed-field2/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      道行く観光客にお願いして菜の花ポートレート写真を撮らせていただきました。場所は愛知県田原市の菜の花ガーデンです。今回は思い切って観光客にお声がけして写真撮影をさせていただいた訳ですが、自分がこれまで撮っていなかった雰囲気や価値観に触れる機会を得ることができました。機会があればたまにはこういった撮影に挑戦してみたいです。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="FE55mmF1.8" scheme="https://tea3.github.io/tags/sony-fe-55mm-f18-za-sel55f18z/"/>
+    
+      <category term="Lightroomのプリセット（フィルム）" scheme="https://tea3.github.io/tags/film-lightroom-presets/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="ハイキー" scheme="https://tea3.github.io/tags/highkey-photography/"/>
+    
+      <category term="フィルム風現像" scheme="https://tea3.github.io/tags/film-lightroom-preset/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="散歩" scheme="https://tea3.github.io/tags/walk/"/>
+    
+      <category term="植物" scheme="https://tea3.github.io/tags/plant/"/>
+    
+      <category term="花（植物）" scheme="https://tea3.github.io/tags/flower/"/>
+    
+      <category term="逆光" scheme="https://tea3.github.io/tags/backlit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>佐久島へ卒業旅行「最後の制服」を写真撮影してきました</title>
+    <link href="https://tea3.github.io/p/17/graduation-trip-sakushima/"/>
+    <id>https://tea3.github.io/p/17/graduation-trip-sakushima/</id>
+    <published>2017-04-02T13:50:51.000Z</published>
+    <updated>2017-05-10T01:28:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        高校の最後を飾る卒業旅行へ、ポートレート撮影係りとしてご一緒させて頂きました。撮影地は愛知県佐久島でした。佐久島へのアクセス方法は西尾市の佐久島船乗り場から船で移動します。佐久島のみどころは島中に散りばめられた佐久島アートで、おひるねハウスやイーストハウス、かもめの駐車場が中でも有名なスポットです(詳しくは地図にて)。
+      
+      </p><p><a href="https://tea3.github.io/p/17/graduation-trip-sakushima/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      高校の最後を飾る卒業旅行へ、ポートレート撮影係りとしてご一緒させて頂きました。撮影地は愛知県佐久島でした。佐久島へのアクセス方法は西尾市の佐久島船乗り場から船で移動します。佐久島のみどころは島中に散りばめられた佐久島アートで、おひるねハウスやイーストハウス、かもめの駐車場が中でも有名なスポットです(詳しくは地図にて)。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="D7200" scheme="https://tea3.github.io/tags/nikon-d7200-photo/"/>
+    
+      <category term="FE55mmF1.8" scheme="https://tea3.github.io/tags/sony-fe-55mm-f18-za-sel55f18z/"/>
+    
+      <category term="FE70-200mmF4G" scheme="https://tea3.github.io/tags/sony-fe-70-200mm-f4-g-oss-sel70200g/"/>
+    
+      <category term="Lightroomのプリセット（フィルム）" scheme="https://tea3.github.io/tags/film-lightroom-presets/"/>
+    
+      <category term="Loxia2.8/21" scheme="https://tea3.github.io/tags/carl-zeiss-loxia-21mm-f28/"/>
+    
+      <category term="Nikon85mmf1.8G" scheme="https://tea3.github.io/tags/af-s-nikkor-85mm-f18g/"/>
+    
+      <category term="Sigma35mmF1.4" scheme="https://tea3.github.io/tags/sigma-35mm-F14-dg-hsm-art/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="ハイキー" scheme="https://tea3.github.io/tags/highkey-photography/"/>
+    
+      <category term="フィルム風現像" scheme="https://tea3.github.io/tags/film-lightroom-preset/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="逆光" scheme="https://tea3.github.io/tags/backlit/"/>
+    
+      <category term="風景" scheme="https://tea3.github.io/tags/landscape/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>篠島ウミホタルは島民の思いがもたらした輝き</title>
+    <link href="https://tea3.github.io/p/17/cypridina-hilgendorfii-japan-shinojima/"/>
+    <id>https://tea3.github.io/p/17/cypridina-hilgendorfii-japan-shinojima/</id>
+    <published>2017-03-28T16:42:10.000Z</published>
+    <updated>2017-05-10T01:28:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        愛知県篠島のウミホタルを撮影してきました。海ほたるは波などの衝撃を受けて青白く発光します。実はウミホタルが見られるようになったのは最近の事。放棄されるゴミを島の方々が清掃活動しているお陰だったという事実を知って熱い気持ちになりました。これからも素敵な風景が見られる場所であって欲しいなと思いました。
+      
+      </p><p><a href="https://tea3.github.io/p/17/cypridina-hilgendorfii-japan-shinojima/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      愛知県篠島のウミホタルを撮影してきました。海ほたるは波などの衝撃を受けて青白く発光します。実はウミホタルが見られるようになったのは最近の事。放棄されるゴミを島の方々が清掃活動しているお陰だったという事実を知って熱い気持ちになりました。これからも素敵な風景が見られる場所であって欲しいなと思いました。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="FE55mmF1.8" scheme="https://tea3.github.io/tags/sony-fe-55mm-f18-za-sel55f18z/"/>
+    
+      <category term="FE90mmF2.8Macro" scheme="https://tea3.github.io/tags/sony-fe-90mm-F28-macro-g-oss-sel90m28g/"/>
+    
+      <category term="Lightroomのプリセット（クール）" scheme="https://tea3.github.io/tags/cool-lightroom-presets/"/>
+    
+      <category term="Loxia2.8/21" scheme="https://tea3.github.io/tags/carl-zeiss-loxia-21mm-f28/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="風景" scheme="https://tea3.github.io/tags/landscape/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>別れの季節に花を添えよう。岡崎市の南公園梅園でポートレート撮影</title>
+    <link href="https://tea3.github.io/p/17/season-of-farewell/"/>
+    <id>https://tea3.github.io/p/17/season-of-farewell/</id>
+    <published>2017-03-16T14:06:25.000Z</published>
+    <updated>2017-05-10T01:28:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        岡崎市の南公園にある梅園でポートレートを撮らせていただきました。モデルは新しい環境に飛び立つお二人です。これまで当たり前だった一緒の時間…。それが暫くの間だけ無くなってしまう事を思うと、撮っている側も、和やかな気持ちと切ない感情が同時に込み上げてくるようでした。
+      
+      </p><p><a href="https://tea3.github.io/p/17/season-of-farewell/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      岡崎市の南公園にある梅園でポートレートを撮らせていただきました。モデルは新しい環境に飛び立つお二人です。これまで当たり前だった一緒の時間…。それが暫くの間だけ無くなってしまう事を思うと、撮っている側も、和やかな気持ちと切ない感情が同時に込み上げてくるようでした。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="Laowa105mmF2-STF-Bokeh-Dreamer" scheme="https://tea3.github.io/tags/laowa-105mm-stf-bokeh-dreamer/"/>
+    
+      <category term="Lightroomのプリセット（フィルム）" scheme="https://tea3.github.io/tags/film-lightroom-presets/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="ハイキー" scheme="https://tea3.github.io/tags/highkey-photography/"/>
+    
+      <category term="フィルム風現像" scheme="https://tea3.github.io/tags/film-lightroom-preset/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="散歩" scheme="https://tea3.github.io/tags/walk/"/>
+    
+      <category term="植物" scheme="https://tea3.github.io/tags/plant/"/>
+    
+      <category term="花（植物）" scheme="https://tea3.github.io/tags/flower/"/>
+    
+      <category term="逆光" scheme="https://tea3.github.io/tags/backlit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>菜の花の観光地で声をかけてポートレートを撮らせてもらった</title>
+    <link href="https://tea3.github.io/p/17/story-of-rapeseed-field/"/>
+    <id>https://tea3.github.io/p/17/story-of-rapeseed-field/</id>
+    <published>2017-03-01T18:43:41.000Z</published>
+    <updated>2017-05-10T01:28:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        見ず知らずの方に声を掛けてポートレート写真を撮らせて頂きました。lovegraphyと言うんでしょうか。あまり撮ったことが無いジャンルでしたが出来過ぎと思えるほど良いカップル写真に巡り合えました。また、Lightroomのレタッチした撮影作例が書籍で4ページほど掲載されましたので概要とともにご紹介します。
+      
+      </p><p><a href="https://tea3.github.io/p/17/story-of-rapeseed-field/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      見ず知らずの方に声を掛けてポートレート写真を撮らせて頂きました。lovegraphyと言うんでしょうか。あまり撮ったことが無いジャンルでしたが出来過ぎと思えるほど良いカップル写真に巡り合えました。また、Lightroomのレタッチした撮影作例が書籍で4ページほど掲載されましたので概要とともにご紹介します。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="Laowa105mmF2-STF-Bokeh-Dreamer" scheme="https://tea3.github.io/tags/laowa-105mm-stf-bokeh-dreamer/"/>
+    
+      <category term="Lightroomのプリセット（フィルム）" scheme="https://tea3.github.io/tags/film-lightroom-presets/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="ハイキー" scheme="https://tea3.github.io/tags/highkey-photography/"/>
+    
+      <category term="フィルム風現像" scheme="https://tea3.github.io/tags/film-lightroom-preset/"/>
+    
+      <category term="メディア・掲載・展示" scheme="https://tea3.github.io/tags/media/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="散歩" scheme="https://tea3.github.io/tags/walk/"/>
+    
+      <category term="植物" scheme="https://tea3.github.io/tags/plant/"/>
+    
+      <category term="花（植物）" scheme="https://tea3.github.io/tags/flower/"/>
+    
+      <category term="逆光" scheme="https://tea3.github.io/tags/backlit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>内容が無いポートレート勉強会を企画して気づいたこと(FE 35mm F1.4 ZA)</title>
+    <link href="https://tea3.github.io/p/17/photo-meet-sc/"/>
+    <id>https://tea3.github.io/p/17/photo-meet-sc/</id>
+    <published>2017-02-12T14:11:03.000Z</published>
+    <updated>2017-05-10T01:28:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        ポートレート撮影の勉強会を主催しました。会場は愛知県にある古い校舎です。本来ならば撮影方法を一から説明するべきなんですが、解説や座学は一切無しのイベントでした。勉強会というよりフォトグラファー同士の交流会に近い雰囲気で場が進行しましたが、互いに技術や価値観・表現を盗み合うという事も水面下で行われたように思います。
+      
+      </p><p><a href="https://tea3.github.io/p/17/photo-meet-sc/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      ポートレート撮影の勉強会を主催しました。会場は愛知県にある古い校舎です。本来ならば撮影方法を一から説明するべきなんですが、解説や座学は一切無しのイベントでした。勉強会というよりフォトグラファー同士の交流会に近い雰囲気で場が進行しましたが、互いに技術や価値観・表現を盗み合うという事も水面下で行われたように思います。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="FE35mmF1.4" scheme="https://tea3.github.io/tags/sony-distagon-t-fe-35mm-f14-za/"/>
+    
+      <category term="FE55mmF1.8" scheme="https://tea3.github.io/tags/sony-fe-55mm-f18-za-sel55f18z/"/>
+    
+      <category term="Lightroomのプリセット（フィルム）" scheme="https://tea3.github.io/tags/film-lightroom-presets/"/>
+    
+      <category term="α7" scheme="https://tea3.github.io/tags/sony-ilce7-photo/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="イベント" scheme="https://tea3.github.io/tags/event/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>つまる距離(FE 85mm F1.4 GM ポートレート)</title>
+    <link href="https://tea3.github.io/p/17/distance/"/>
+    <id>https://tea3.github.io/p/17/distance/</id>
+    <published>2017-02-07T14:17:53.000Z</published>
+    <updated>2017-05-10T01:28:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        愛知県で戦前から残る古い校舎をお借りしてばにらさんをポートレート撮影させて頂きました。話は変わりますが、年を重ねるごとに人との距離を縮めるのが下手になってしまったように感じます。何となく自分の中にも壁を作ってしまい、打ち解けるのに時間がかかるのです。ポートレートを撮る理由はその代償行為なのかもしれないとふと思いました。
+      
+      </p><p><a href="https://tea3.github.io/p/17/distance/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      愛知県で戦前から残る古い校舎をお借りしてばにらさんをポートレート撮影させて頂きました。話は変わりますが、年を重ねるごとに人との距離を縮めるのが下手になってしまったように感じます。何となく自分の中にも壁を作ってしまい、打ち解けるのに時間がかかるのです。ポートレートを撮る理由はその代償行為なのかもしれないとふと思いました。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="FE85mmF1.4GM" scheme="https://tea3.github.io/tags/sony-fe-85mm-f14-gm/"/>
+    
+      <category term="Laowa105mmF2-STF-Bokeh-Dreamer" scheme="https://tea3.github.io/tags/laowa-105mm-stf-bokeh-dreamer/"/>
+    
+      <category term="Lightroomのプリセット（フィルム）" scheme="https://tea3.github.io/tags/film-lightroom-presets/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="フィルム風現像" scheme="https://tea3.github.io/tags/film-lightroom-preset/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+  </entry>
+  
+</feed>

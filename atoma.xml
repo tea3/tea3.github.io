@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TPB</title>
+  <subtitle>TPB</subtitle>
+  <link href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+  <link href="https://tea3.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://tea3.github.io/" rel="alternate" type="text/html"/>
+  <updated>2017-09-05T07:05:00.000Z</updated>
+  <id>https://tea3.github.io/</id>
+  
+  <author>
+    <name>tea</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>サイトURLの変更のお知らせ</title>
+    <link href="https://tea3.github.io/p/17/transfered-url/"/>
+    <id>https://tea3.github.io/p/17/transfered-url/</id>
+    <published>2017-09-04T14:13:33.000Z</published>
+    <updated>2017-09-05T07:05:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        この度サイトのURLを変更することになりました。サイトの内容は従来と同じとなります。また、Feedlyやinoreaderでフィード購読されていらっしゃる方は大変ご手数ではありますが新しいフィードURL(https://photo-tea.com/atom.xml)へ再登録をお願いいたします。
+      
+      </p><p><a href="https://tea3.github.io/p/17/transfered-url/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      この度サイトのURLを変更することになりました。サイトの内容は従来と同じとなります。また、Feedlyやinoreaderでフィード購読されていらっしゃる方は大変ご手数ではありますが新しいフィードURL(https://photo-tea.com/atom.xml)へ再登録をお願いいたします。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="イベント" scheme="https://tea3.github.io/tags/event/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>野間灯台の砂浜で夕日と花火＆スイカ割り＆ラムネを楽しんできました</title>
+    <link href="https://tea3.github.io/p/17/nomatoudai-tyushajo-beech/"/>
+    <id>https://tea3.github.io/p/17/nomatoudai-tyushajo-beech/</id>
+    <published>2017-08-30T14:22:55.000Z</published>
+    <updated>2017-08-31T03:14:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        愛知県知多半島の美浜町の野間埼灯台へ遊びに行ってきました。駐車場は灯台の近くと食と健康の館という場所の駐車場(有料)が利用できます。駐車場の向かい側には小野浦海水浴場があります。また近くにノアノアというおしゃれなカフェがありました。今回は写真仲間のお誘いで夕日・線香花火・スイカ割り・ラムネを満喫することができました。
+      
+      </p><p><a href="https://tea3.github.io/p/17/nomatoudai-tyushajo-beech/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      愛知県知多半島の美浜町の野間埼灯台へ遊びに行ってきました。駐車場は灯台の近くと食と健康の館という場所の駐車場(有料)が利用できます。駐車場の向かい側には小野浦海水浴場があります。また近くにノアノアというおしゃれなカフェがありました。今回は写真仲間のお誘いで夕日・線香花火・スイカ割り・ラムネを満喫することができました。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="FE55mmF1.8" scheme="https://tea3.github.io/tags/sony-fe-55mm-f18-za-sel55f18z/"/>
+    
+      <category term="Holga(HL-N)" scheme="https://tea3.github.io/tags/Holga-HL-N/"/>
+    
+      <category term="Laowa105mmF2-STF-Bokeh-Dreamer" scheme="https://tea3.github.io/tags/laowa-105mm-stf-bokeh-dreamer/"/>
+    
+      <category term="Lightroomのプリセット（フィルム）" scheme="https://tea3.github.io/tags/film-lightroom-presets/"/>
+    
+      <category term="Loxia2.8/21" scheme="https://tea3.github.io/tags/carl-zeiss-loxia-21mm-f28/"/>
+    
+      <category term="NissinAir1とDi700A（ストロボ）" scheme="https://tea3.github.io/tags/nissin-flash-air1-and-di700a/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="オールドレンズ" scheme="https://tea3.github.io/tags/old-lens/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="ハイキー" scheme="https://tea3.github.io/tags/highkey-photography/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="逆光" scheme="https://tea3.github.io/tags/backlit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Excelをjavascriptで開きJSONパースする方法。node.jsのxlsjsについて</title>
+    <link href="https://tea3.github.io/p/17/excel-parse-javascript-node/"/>
+    <id>https://tea3.github.io/p/17/excel-parse-javascript-node/</id>
+    <published>2017-08-29T14:31:02.000Z</published>
+    <updated>2017-08-31T00:19:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        Excelファイル(拡張子：xls)を読み込んで中身を解析する方法をまとめます。javascript(node.js)のnpmパッケージであるxlsjsを使えば、簡単に中のデータを取り出せます。xlsjsはブラウザ上でも動作します。エクセルを立ち上げずに手軽に内容を処理したい時に便利なツールだと言えそうです。
+      
+      </p><p><a href="https://tea3.github.io/p/17/excel-parse-javascript-node/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      Excelファイル(拡張子：xls)を読み込んで中身を解析する方法をまとめます。javascript(node.js)のnpmパッケージであるxlsjsを使えば、簡単に中のデータを取り出せます。xlsjsはブラウザ上でも動作します。エクセルを立ち上げずに手軽に内容を処理したい時に便利なツールだと言えそうです。
+    
+    </summary>
+    
+      <category term="IT関連" scheme="https://tea3.github.io/categories/it/"/>
+    
+    
+      <category term="IT・プログラミング" scheme="https://tea3.github.io/tags/training-programing/"/>
+    
+      <category term="javascript" scheme="https://tea3.github.io/tags/javascript/"/>
+    
+      <category term="node.js" scheme="https://tea3.github.io/tags/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>マウントアダプターNikonG-SonyEのレビュー(K＆F Concept製のSonyミラーレス用アダプタ)</title>
+    <link href="https://tea3.github.io/p/17/kf-concept-adapter-nikon-sony/"/>
+    <id>https://tea3.github.io/p/17/kf-concept-adapter-nikon-sony/</id>
+    <published>2017-08-28T17:30:36.000Z</published>
+    <updated>2017-08-31T01:54:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        K＆F ConceptのニコンGレンズをソニーのα Eマウントミラーレス一眼レフで使用することができるマウントアダプターをレビューします。実際に撮影してみた感想は3,000円以下で価格が安く、Nikonレンズの切れ味(解像度)を損なわずに写真を楽しめる良いマウントでした。α7RIIの等倍画像サンプルもご覧ください。
+      
+      </p><p><a href="https://tea3.github.io/p/17/kf-concept-adapter-nikon-sony/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      K＆F ConceptのニコンGレンズをソニーのα Eマウントミラーレス一眼レフで使用することができるマウントアダプターをレビューします。実際に撮影してみた感想は3,000円以下で価格が安く、Nikonレンズの切れ味(解像度)を損なわずに写真を楽しめる良いマウントでした。α7RIIの等倍画像サンプルもご覧ください。
+    
+    </summary>
+    
+      <category term="機材レビュー" scheme="https://tea3.github.io/categories/camera-review/"/>
+    
+    
+      <category term="K＆FConceptマウントアダプターNikonG→SonyE" scheme="https://tea3.github.io/tags/kfcadapter-nikong-sonye/"/>
+    
+      <category term="Nikon300mmF4PFVR" scheme="https://tea3.github.io/tags/af-s-nikkor-300mm-f4e-pf-ed-vr/"/>
+    
+      <category term="Nikon85mmf1.8G" scheme="https://tea3.github.io/tags/af-s-nikkor-85mm-f18g/"/>
+    
+      <category term="Sigma15mmF2.8Fisheye" scheme="https://tea3.github.io/tags/sigma-15mm-F28-ex-dg-diagonal-fisheye/"/>
+    
+      <category term="Sigma35mmF1.4" scheme="https://tea3.github.io/tags/sigma-35mm-F14-dg-hsm-art/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="カメラ・レンズレビュー" scheme="https://tea3.github.io/tags/camera-lens-review/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GithubとTravisCIで継続的インテグレーションする方法を解説します。</title>
+    <link href="https://tea3.github.io/p/17/javascript-test-how-to-5/"/>
+    <id>https://tea3.github.io/p/17/javascript-test-how-to-5/</id>
+    <published>2017-08-24T15:35:05.000Z</published>
+    <updated>2017-08-28T02:50:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        javascriptまたはEcmaScript6(ES6)のコードを継続的インテグレーションする方法をまとめます。Travis CIを活用すると、Githubへリポジトリをpushするたびにテストを自動で実行させる事ができますので是非参考にしてください。
+      
+      </p><p><a href="https://tea3.github.io/p/17/javascript-test-how-to-5/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      javascriptまたはEcmaScript6(ES6)のコードを継続的インテグレーションする方法をまとめます。Travis CIを活用すると、Githubへリポジトリをpushするたびにテストを自動で実行させる事ができますので是非参考にしてください。
+    
+    </summary>
+    
+      <category term="IT関連" scheme="https://tea3.github.io/categories/it/"/>
+    
+    
+      <category term="IT・プログラミング" scheme="https://tea3.github.io/tags/training-programing/"/>
+    
+      <category term="javascript" scheme="https://tea3.github.io/tags/javascript/"/>
+    
+      <category term="node.js" scheme="https://tea3.github.io/tags/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nikon D850とD810の違いを比較。D850の仕様スペックについて</title>
+    <link href="https://tea3.github.io/p/17/d850-vs-d810-nikon/"/>
+    <id>https://tea3.github.io/p/17/d850-vs-d810-nikon/</id>
+    <published>2017-08-24T09:51:03.000Z</published>
+    <updated>2017-08-25T08:43:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        Nikon D810の後継機種となる新しい一眼レフカメラ「Nikon D850」が発表されました。両者の違いとおすすめはどちらかなのか？機能や仕様の違いや旧モデルであるNikon D810と比較して進化したポイントを分かりやすくまとめます。
+      
+      </p><p><a href="https://tea3.github.io/p/17/d850-vs-d810-nikon/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      Nikon D810の後継機種となる新しい一眼レフカメラ「Nikon D850」が発表されました。両者の違いとおすすめはどちらかなのか？機能や仕様の違いや旧モデルであるNikon D810と比較して進化したポイントを分かりやすくまとめます。
+    
+    </summary>
+    
+      <category term="機材レビュー" scheme="https://tea3.github.io/categories/camera-review/"/>
+    
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="気になるレンズ" scheme="https://tea3.github.io/tags/fav-lens/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Worlde EasyControl9はnanoKontrolと同様にLightroomをMIDIコンできる！？</title>
+    <link href="https://tea3.github.io/p/17/worlde-easycontrol9-lr/"/>
+    <id>https://tea3.github.io/p/17/worlde-easycontrol9-lr/</id>
+    <published>2017-08-23T14:41:45.000Z</published>
+    <updated>2017-08-24T03:16:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        Worlde EasyControl9というMIDIコントローラーは、日本の楽器メーカーであるKORG社のnanoKontrol第1世代とそっくりの仕様のようです。nanoKONTROLが製造終了になってしまい、中古品しか出回っていない現状を考えると、代替としてEasyControl9を使うのもアリだなと思いました。
+      
+      </p><p><a href="https://tea3.github.io/p/17/worlde-easycontrol9-lr/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      Worlde EasyControl9というMIDIコントローラーは、日本の楽器メーカーであるKORG社のnanoKontrol第1世代とそっくりの仕様のようです。nanoKONTROLが製造終了になってしまい、中古品しか出回っていない現状を考えると、代替としてEasyControl9を使うのもアリだなと思いました。
+    
+    </summary>
+    
+      <category term="写真テクニック" scheme="https://tea3.github.io/categories/photography-technique/"/>
+    
+      <category term="Lightroomの使い方・現像テクニック" scheme="https://tea3.github.io/categories/photography-technique/lightroom-tips/"/>
+    
+    
+      <category term="Lightroom編集・レタッチテクニック" scheme="https://tea3.github.io/tags/lightroom-technique/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="現像テクニック" scheme="https://tea3.github.io/tags/photo-development-technique/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flickrで写真画像のオリジナルサイズをダウンロードするにはAPIを2回叩く必要がある</title>
+    <link href="https://tea3.github.io/p/17/flickrapi-original-size-howtoget/"/>
+    <id>https://tea3.github.io/p/17/flickrapi-original-size-howtoget/</id>
+    <published>2017-08-22T13:40:26.000Z</published>
+    <updated>2017-08-23T08:48:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        Flickrにアップロードされた元画像をオリジナルサイズで一括ダウンロードする方法をまとめます。アプリやプラグインなどのプログラムを介してFlickrAPIから画像URLを取得するにはAPIを2回叩く必要があります。また1024ピクセル以下の各画像サイズにアクセスするには接尾辞を追記すればアクセスできます。
+      
+      </p><p><a href="https://tea3.github.io/p/17/flickrapi-original-size-howtoget/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      Flickrにアップロードされた元画像をオリジナルサイズで一括ダウンロードする方法をまとめます。アプリやプラグインなどのプログラムを介してFlickrAPIから画像URLを取得するにはAPIを2回叩く必要があります。また1024ピクセル以下の各画像サイズにアクセスするには接尾辞を追記すればアクセスできます。
+    
+    </summary>
+    
+      <category term="IT関連" scheme="https://tea3.github.io/categories/it/"/>
+    
+    
+      <category term="IT・プログラミング" scheme="https://tea3.github.io/tags/training-programing/"/>
+    
+      <category term="javascript" scheme="https://tea3.github.io/tags/javascript/"/>
+    
+      <category term="作業効率化" scheme="https://tea3.github.io/tags/improvement-of-operational-efficiency/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>javascriptで構文をチェックする方法を解説します。ESLintの簡単な使い方</title>
+    <link href="https://tea3.github.io/p/17/javascript-test-how-to-4/"/>
+    <id>https://tea3.github.io/p/17/javascript-test-how-to-4/</id>
+    <published>2017-08-21T13:15:30.000Z</published>
+    <updated>2017-08-25T08:39:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        javascriptまたはEcmaScript6(ES6)のコーディングルールを保つ方法をまとめます。具体的にはESLint(イーエスリント)という、JavascriptやEcmaScript6の構文をチェックしてくれるnpmパッケージを使います。ESLintは記述チェックツールを流用またはカスタマイズできます。
+      
+      </p><p><a href="https://tea3.github.io/p/17/javascript-test-how-to-4/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      javascriptまたはEcmaScript6(ES6)のコーディングルールを保つ方法をまとめます。具体的にはESLint(イーエスリント)という、JavascriptやEcmaScript6の構文をチェックしてくれるnpmパッケージを使います。ESLintは記述チェックツールを流用またはカスタマイズできます。
+    
+    </summary>
+    
+      <category term="IT関連" scheme="https://tea3.github.io/categories/it/"/>
+    
+    
+      <category term="IT・プログラミング" scheme="https://tea3.github.io/tags/training-programing/"/>
+    
+      <category term="javascript" scheme="https://tea3.github.io/tags/javascript/"/>
+    
+      <category term="node.js" scheme="https://tea3.github.io/tags/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文字数をカウントする方法のメモ。MacやWindowsのテキストエディットは使わない</title>
+    <link href="https://tea3.github.io/p/17/mojisu-count-mac-win/"/>
+    <id>https://tea3.github.io/p/17/mojisu-count-mac-win/</id>
+    <published>2017-08-20T12:36:23.000Z</published>
+    <updated>2017-08-22T00:07:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        PCで入力した文字数をカウントする方法まとめます。メモやブログ(ワードプレスなど)、そしてTwitterのツイート文字数を数えたい時に重宝します。入力文字数を調べるにはSublime Textを使います。アプリはMacやWindowsで使える無料のソフトです。プラグインとしてWordCountをインストールします。
+      
+      </p><p><a href="https://tea3.github.io/p/17/mojisu-count-mac-win/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      PCで入力した文字数をカウントする方法まとめます。メモやブログ(ワードプレスなど)、そしてTwitterのツイート文字数を数えたい時に重宝します。入力文字数を調べるにはSublime Textを使います。アプリはMacやWindowsで使える無料のソフトです。プラグインとしてWordCountをインストールします。
+    
+    </summary>
+    
+      <category term="IT関連" scheme="https://tea3.github.io/categories/it/"/>
+    
+    
+      <category term="IT・プログラミング" scheme="https://tea3.github.io/tags/training-programing/"/>
+    
+      <category term="作業効率化" scheme="https://tea3.github.io/tags/improvement-of-operational-efficiency/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ATOMOS NINJA ASSASSIN中古はHDMIキャプチャに付属品が3万円かかる</title>
+    <link href="https://tea3.github.io/p/17/atomos-ninja-assassin-hdmi-rec/"/>
+    <id>https://tea3.github.io/p/17/atomos-ninja-assassin-hdmi-rec/</id>
+    <published>2017-08-17T13:05:37.000Z</published>
+    <updated>2017-08-21T06:08:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        HDMI端子の4K映像出力をキャプチャー(録画)ができるATOMOS NINJA ASSASINをヤフオクで落札しようと考えてたところ追加購入が必要な機材が約3万円かかる事が分かりました。今回は映像をHDDまたはSDDに保存してPCで編集するために必要なものをまとめました。また代替の安い機材も後半で紹介します。
+      
+      </p><p><a href="https://tea3.github.io/p/17/atomos-ninja-assassin-hdmi-rec/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      HDMI端子の4K映像出力をキャプチャー(録画)ができるATOMOS NINJA ASSASINをヤフオクで落札しようと考えてたところ追加購入が必要な機材が約3万円かかる事が分かりました。今回は映像をHDDまたはSDDに保存してPCで編集するために必要なものをまとめました。また代替の安い機材も後半で紹介します。
+    
+    </summary>
+    
+      <category term="機材レビュー" scheme="https://tea3.github.io/categories/camera-review/"/>
+    
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="気になるレンズ" scheme="https://tea3.github.io/tags/fav-lens/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sublimetext3のPackage Controlインストール方法やプラグイン設定のメモ</title>
+    <link href="https://tea3.github.io/p/17/sublimetext3-settings/"/>
+    <id>https://tea3.github.io/p/17/sublimetext3-settings/</id>
+    <published>2017-08-16T13:17:58.000Z</published>
+    <updated>2017-08-21T03:07:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        Sublimetext3のパッケージコントロールのインストール方法やテーマやプラグインの導入方法を備忘録としてまとめます。Sublimetext3とは高機能なテキストエディタです。Web業務やプログラミング、ブログ作成に活用することができて大変便利なアプリです。当記事では実際に自分が使っている設定や使い方を公開します。
+      
+      </p><p><a href="https://tea3.github.io/p/17/sublimetext3-settings/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      Sublimetext3のパッケージコントロールのインストール方法やテーマやプラグインの導入方法を備忘録としてまとめます。Sublimetext3とは高機能なテキストエディタです。Web業務やプログラミング、ブログ作成に活用することができて大変便利なアプリです。当記事では実際に自分が使っている設定や使い方を公開します。
+    
+    </summary>
+    
+      <category term="IT関連" scheme="https://tea3.github.io/categories/it/"/>
+    
+    
+      <category term="IT・プログラミング" scheme="https://tea3.github.io/tags/training-programing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>透明感ある写真を撮る方法＆レタッチで仕上げるポイントとは何か？Lightroom勉強会が開催されます。</title>
+    <link href="https://tea3.github.io/p/17/toumeikan-dashikata/"/>
+    <id>https://tea3.github.io/p/17/toumeikan-dashikata/</id>
+    <published>2017-08-10T20:57:31.000Z</published>
+    <updated>2017-08-14T03:00:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        写真で透明感を出す方法について簡単にまとめてみたいと思います。また週末にLightroom勉強会の第2回目が開催されます。ライトルームの使い方やレタッチの考え方を参加者で意見交換したり基礎を学ぶ交流会です。LINEグループ上で動画チャットを活用して実際にLightroomを触っているところをリアルタイムで画面共有します。
+      
+      </p><p><a href="https://tea3.github.io/p/17/toumeikan-dashikata/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      写真で透明感を出す方法について簡単にまとめてみたいと思います。また週末にLightroom勉強会の第2回目が開催されます。ライトルームの使い方やレタッチの考え方を参加者で意見交換したり基礎を学ぶ交流会です。LINEグループ上で動画チャットを活用して実際にLightroomを触っているところをリアルタイムで画面共有します。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="FE90mmF2.8Macro" scheme="https://tea3.github.io/tags/sony-fe-90mm-F28-macro-g-oss-sel90m28g/"/>
+    
+      <category term="NissinAir1とDi700A（ストロボ）" scheme="https://tea3.github.io/tags/nissin-flash-air1-and-di700a/"/>
+    
+      <category term="α7RII" scheme="https://tea3.github.io/tags/sony-ilce7rm2-photo/"/>
+    
+      <category term="イベント" scheme="https://tea3.github.io/tags/event/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="ハイキー" scheme="https://tea3.github.io/tags/highkey-photography/"/>
+    
+      <category term="マクロ" scheme="https://tea3.github.io/tags/macro/"/>
+    
+      <category term="人物（ポートレート）" scheme="https://tea3.github.io/tags/portrait/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="植物" scheme="https://tea3.github.io/tags/plant/"/>
+    
+      <category term="照明機材" scheme="https://tea3.github.io/tags/camera-lighting-goods/"/>
+    
+      <category term="花（植物）" scheme="https://tea3.github.io/tags/flower/"/>
+    
+      <category term="逆光" scheme="https://tea3.github.io/tags/backlit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>たんころりんで綺麗な写真を撮るコツ。愛知県足助町のキャンドルナイトを楽しむには？</title>
+    <link href="https://tea3.github.io/p/17/asuke-tankororin-satsuei-houhou/"/>
+    <id>https://tea3.github.io/p/17/asuke-tankororin-satsuei-houhou/</id>
+    <published>2017-08-09T14:53:09.000Z</published>
+    <updated>2017-08-10T03:04:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        キャンドルナイトの町並みで有名な「たんころりんの夕涼み」で綺麗な写真をカメラ初心者でもキレに撮る方法をまとめます。たんころりんとは、愛知県の足助町でお盆の時期に開催されている趣きのある宿場町に並べられた幻想的なキャンドルのイルミネーションが見どころのイベントです。また付近では愛知県の紅葉の名所の香嵐渓があります。
+      
+      </p><p><a href="https://tea3.github.io/p/17/asuke-tankororin-satsuei-houhou/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      キャンドルナイトの町並みで有名な「たんころりんの夕涼み」で綺麗な写真をカメラ初心者でもキレに撮る方法をまとめます。たんころりんとは、愛知県の足助町でお盆の時期に開催されている趣きのある宿場町に並べられた幻想的なキャンドルのイルミネーションが見どころのイベントです。また付近では愛知県の紅葉の名所の香嵐渓があります。
+    
+    </summary>
+    
+      <category term="写真テクニック" scheme="https://tea3.github.io/categories/photography-technique/"/>
+    
+      <category term="カメラ初心者講座・撮影の方法とコツ" scheme="https://tea3.github.io/categories/photography-technique/camera-beginner/"/>
+    
+    
+      <category term="カメラの使い方" scheme="https://tea3.github.io/tags/camera-technique/"/>
+    
+      <category term="カメラ初心者への使い方解説" scheme="https://tea3.github.io/tags/camera-beginner-tips/"/>
+    
+      <category term="撮影テクニック" scheme="https://tea3.github.io/tags/shooting-technique/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>彼岸花(曼珠沙華)を綺麗に撮影する方法まとめ。初秋の写真を楽しむテクニックは花言葉にある？</title>
+    <link href="https://tea3.github.io/p/17/higanbana-satuei-houhou/"/>
+    <id>https://tea3.github.io/p/17/higanbana-satuei-houhou/</id>
+    <published>2017-08-08T13:22:41.000Z</published>
+    <updated>2017-08-11T05:54:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        彼岸花の写真を初心者でもキレイに撮るコツをまとめました。彼岸花は別名で曼珠沙華やリコリスと呼ばれていて初秋を感じさせてくれる花の一つです。開花時期は9月中旬頃。撮影する際には花言葉に込められた幾つかのイメージをヒントにして様々な雰囲気を楽しんでみてはいかがでしょうか？また今回はテクニックについても解説します。
+      
+      </p><p><a href="https://tea3.github.io/p/17/higanbana-satuei-houhou/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      彼岸花の写真を初心者でもキレイに撮るコツをまとめました。彼岸花は別名で曼珠沙華やリコリスと呼ばれていて初秋を感じさせてくれる花の一つです。開花時期は9月中旬頃。撮影する際には花言葉に込められた幾つかのイメージをヒントにして様々な雰囲気を楽しんでみてはいかがでしょうか？また今回はテクニックについても解説します。
+    
+    </summary>
+    
+      <category term="写真テクニック" scheme="https://tea3.github.io/categories/photography-technique/"/>
+    
+      <category term="カメラ初心者講座・撮影の方法とコツ" scheme="https://tea3.github.io/categories/photography-technique/camera-beginner/"/>
+    
+    
+      <category term="NissinAir1とDi700A（ストロボ）" scheme="https://tea3.github.io/tags/nissin-flash-air1-and-di700a/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="カメラの使い方" scheme="https://tea3.github.io/tags/camera-technique/"/>
+    
+      <category term="マクロ" scheme="https://tea3.github.io/tags/macro/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="子供のポートレート写真" scheme="https://tea3.github.io/tags/children-portrait/"/>
+    
+      <category term="愛知県の写真スポット" scheme="https://tea3.github.io/tags/aichi-prefecture-photo-locations/"/>
+    
+      <category term="撮影テクニック" scheme="https://tea3.github.io/tags/shooting-technique/"/>
+    
+      <category term="植物" scheme="https://tea3.github.io/tags/plant/"/>
+    
+      <category term="照明機材" scheme="https://tea3.github.io/tags/camera-lighting-goods/"/>
+    
+      <category term="花（植物）" scheme="https://tea3.github.io/tags/flower/"/>
+    
+      <category term="風景" scheme="https://tea3.github.io/tags/landscape/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SONYカメラ「αユーザーのオフ会」を愛知県名古屋市で開催します</title>
+    <link href="https://tea3.github.io/p/17/sony-nagoya-meeting-1015/"/>
+    <id>https://tea3.github.io/p/17/sony-nagoya-meeting-1015/</id>
+    <published>2017-08-05T15:28:14.000Z</published>
+    <updated>2017-08-10T06:11:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        愛知県の名古屋市でSONY αユーザーのオフ会「#SONYオフ会名古屋1015」を開催することになりました。カメラユーザー同士で自由に交流できる場となっていますので、写真仲間を増やしたい方や交流を楽しみたい方はこの機会に是非ご参加ください。イベントは撮影会と飲み会の2部構成となっています。
+      
+      </p><p><a href="https://tea3.github.io/p/17/sony-nagoya-meeting-1015/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      愛知県の名古屋市でSONY αユーザーのオフ会「#SONYオフ会名古屋1015」を開催することになりました。カメラユーザー同士で自由に交流できる場となっていますので、写真仲間を増やしたい方や交流を楽しみたい方はこの機会に是非ご参加ください。イベントは撮影会と飲み会の2部構成となっています。
+    
+    </summary>
+    
+      <category term="日記" scheme="https://tea3.github.io/categories/diary/"/>
+    
+    
+      <category term="イベント" scheme="https://tea3.github.io/tags/event/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>おすすめのマクロレンズまとめ。カメラ初心者におすすめしたいレンズ一覧</title>
+    <link href="https://tea3.github.io/p/17/camera-macro-lens-osusume/"/>
+    <id>https://tea3.github.io/p/17/camera-macro-lens-osusume/</id>
+    <published>2017-08-02T15:20:17.000Z</published>
+    <updated>2017-08-09T06:00:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        一眼レフやミラーレスの撮影でおすすめのマクロレンズを、各カメラメーカー毎にご紹介します。できるだけコストパフォーマンスが良く、写りもいいレンズを選んでみましたので、何から買っていいか分からない方はぜひ参考にしてください。
+      
+      </p><p><a href="https://tea3.github.io/p/17/camera-macro-lens-osusume/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      一眼レフやミラーレスの撮影でおすすめのマクロレンズを、各カメラメーカー毎にご紹介します。できるだけコストパフォーマンスが良く、写りもいいレンズを選んでみましたので、何から買っていいか分からない方はぜひ参考にしてください。
+    
+    </summary>
+    
+      <category term="カメラのレンズ" scheme="https://tea3.github.io/categories/camera-lens/"/>
+    
+    
+      <category term="気になるレンズ" scheme="https://tea3.github.io/tags/fav-lens/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdownに外部マークダウンを読み込ませるブログ用プラグインを作った</title>
+    <link href="https://tea3.github.io/p/17/hexo-include-markdown/"/>
+    <id>https://tea3.github.io/p/17/hexo-include-markdown/</id>
+    <published>2017-08-01T14:12:21.000Z</published>
+    <updated>2017-08-02T08:53:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        記事の元となるマークダウンファイルに、別のマークダウンを読み込ませて表示させるプラグインを作りました。複数の記事で同じような内容を使いたいけど、更新も頻繁にあるので作業大変！といったケースで効果を発揮します。メンテナンスする手間が省けるかと思いますので、もし宜しければ使ってみてください。
+      
+      </p><p><a href="https://tea3.github.io/p/17/hexo-include-markdown/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      記事の元となるマークダウンファイルに、別のマークダウンを読み込ませて表示させるプラグインを作りました。複数の記事で同じような内容を使いたいけど、更新も頻繁にあるので作業大変！といったケースで効果を発揮します。メンテナンスする手間が省けるかと思いますので、もし宜しければ使ってみてください。
+    
+    </summary>
+    
+      <category term="IT関連" scheme="https://tea3.github.io/categories/it/"/>
+    
+    
+      <category term="HTML5" scheme="https://tea3.github.io/tags/html5/"/>
+    
+      <category term="Hexo" scheme="https://tea3.github.io/tags/hexo-npm-nodejs/"/>
+    
+      <category term="HexoのPlugin" scheme="https://tea3.github.io/tags/hexo-plugin/"/>
+    
+      <category term="IT・プログラミング" scheme="https://tea3.github.io/tags/training-programing/"/>
+    
+      <category term="javascript" scheme="https://tea3.github.io/tags/javascript/"/>
+    
+      <category term="node.js" scheme="https://tea3.github.io/tags/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>javascriptでテストカバレッジ(網羅率)を取得する方法を解説します。istanbulの簡単な使い方</title>
+    <link href="https://tea3.github.io/p/17/javascript-test-how-to-3/"/>
+    <id>https://tea3.github.io/p/17/javascript-test-how-to-3/</id>
+    <published>2017-07-30T13:18:06.000Z</published>
+    <updated>2017-08-22T08:42:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        javascriptやES6における、テストの網羅率(=カバレッジ)を取得する方法を分かりやすくまとめます。npmパッケージのistanbulを使うと、プログラムが期待通りに動作するのか、また同時に、テストコードがメインプログラムの動作を隈なく検証することができるのかを機械的に計測することができます。
+      
+      </p><p><a href="https://tea3.github.io/p/17/javascript-test-how-to-3/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      javascriptやES6における、テストの網羅率(=カバレッジ)を取得する方法を分かりやすくまとめます。npmパッケージのistanbulを使うと、プログラムが期待通りに動作するのか、また同時に、テストコードがメインプログラムの動作を隈なく検証することができるのかを機械的に計測することができます。
+    
+    </summary>
+    
+      <category term="IT関連" scheme="https://tea3.github.io/categories/it/"/>
+    
+    
+      <category term="IT・プログラミング" scheme="https://tea3.github.io/tags/training-programing/"/>
+    
+      <category term="javascript" scheme="https://tea3.github.io/tags/javascript/"/>
+    
+      <category term="node.js" scheme="https://tea3.github.io/tags/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MIDI2LRの使い方をざっくり解説。Lightroomでコントローラーを導入する方法</title>
+    <link href="https://tea3.github.io/p/17/midi2lr-lightroom-how-to-control/"/>
+    <id>https://tea3.github.io/p/17/midi2lr-lightroom-how-to-control/</id>
+    <published>2017-07-30T07:49:08.000Z</published>
+    <updated>2017-08-24T01:30:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>
+      
+        MIDI2LRという無料プラグインを使ってライトルームをいじる方法を簡単に解説してみます。オススメの専用コントローラーやダウンロードやインストール方法、MIDI2LRの使い方を分かりやすくまとめてみたので、良かったら読みながら導入してみてください。おすすめのコントローラーはnano KontrolというMIDIコンです。
+      
+      </p><p><a href="https://tea3.github.io/p/17/midi2lr-lightroom-how-to-control/">　[続きを読む]　</a></p>]]></content>
+    
+    <summary type="html">
+    
+      MIDI2LRという無料プラグインを使ってライトルームをいじる方法を簡単に解説してみます。オススメの専用コントローラーやダウンロードやインストール方法、MIDI2LRの使い方を分かりやすくまとめてみたので、良かったら読みながら導入してみてください。おすすめのコントローラーはnano KontrolというMIDIコンです。
+    
+    </summary>
+    
+      <category term="写真テクニック" scheme="https://tea3.github.io/categories/photography-technique/"/>
+    
+      <category term="Lightroomの使い方・現像テクニック" scheme="https://tea3.github.io/categories/photography-technique/lightroom-tips/"/>
+    
+    
+      <category term="Lightroom編集・レタッチテクニック" scheme="https://tea3.github.io/tags/lightroom-technique/"/>
+    
+      <category term="カメラ" scheme="https://tea3.github.io/tags/camera/"/>
+    
+      <category term="写真" scheme="https://tea3.github.io/tags/photo/"/>
+    
+      <category term="現像テクニック" scheme="https://tea3.github.io/tags/photo-development-technique/"/>
+    
+  </entry>
+  
+</feed>
